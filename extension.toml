@@ -1,0 +1,8 @@
+id = "typst-sympy-calc.zed"
+name = "typst-sympy-calc.zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Egor Gorshenckov <egorgorshenckov@yandex.ru>"]
+description = "Simplify Typst math with automated calculations"
+repository = "https://github.com/EgorGorshen/typst-sympy-calc.zed"
+
